@@ -1,0 +1,23 @@
+Hyperspectral Imaging Overview
+
+Hyperspectral imaging is an advanced technology that captures detailed information from crops across multiple narrow spectral bands. It provides more information than traditional RGB imaging and helps analyze the spectral characteristics of plants.
+
+Spectral Data Analysis
+
+Spectral data represents the light reflected by plants at different wavelengths. Variations in these reflectance patterns can provide useful insights into crop health and help identify possible signs of disease or stress.
+
+Importance in Crop Disease Detection
+
+Healthy and diseased crops may have different spectral characteristics. Analyzing these differences can help identify unusual changes in plant conditions and support early crop disease detection.
+
+Role of Machine Learning
+
+Machine Learning techniques can analyze spectral information, identify disease-related patterns, and classify crop health conditions. These techniques can support the development of predictive models for crop disease forecasting.
+
+Dataset Requirements
+
+The project requires relevant hyperspectral data containing spectral measurements, crop information, and health or disease labels where available. This information will be useful for data preprocessing, feature analysis, and model development.
+
+Day 2 Summary
+
+Studied the fundamentals of hyperspectral imaging, spectral data characteristics, crop reflectance patterns, and their importance in early crop disease detection. Explored how Machine Learning can be applied to analyze spectral information and support crop health monitoring.
