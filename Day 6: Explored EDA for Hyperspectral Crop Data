@@ -1,0 +1,27 @@
+Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis (EDA) is an important step in understanding hyperspectral datasets. It involves examining spectral measurements, identifying patterns, and understanding the distribution of data before applying Machine Learning techniques.
+
+Understanding Spectral Data Distribution
+
+Analyzing the distribution of spectral values helps understand how reflectance measurements vary across different wavelength bands. This provides useful insights into the characteristics of hyperspectral data.
+
+Spectral Data Visualization
+
+Data visualization helps represent spectral information through graphical techniques. Line plots, histograms, and distribution plots can be used to explore spectral variations and identify patterns in crop health data.
+
+Identifying Patterns and Relationships
+
+EDA helps explore relationships between spectral features and crop health conditions. It can also help identify unusual observations, variations, and potential patterns associated with healthy and diseased crops.
+
+Importance of EDA in TerraSpectra
+
+- Understands hyperspectral dataset characteristics.
+- Identifies patterns and variations in spectral measurements.
+- Helps detect missing values and unusual observations.
+- Supports feature analysis and selection.
+- Provides insights for Machine Learning model development.
+
+Day 6 Summary
+
+Explored the fundamentals of Exploratory Data Analysis for hyperspectral crop data. Understood spectral data distribution, visualization techniques, and the importance of identifying patterns and relationships before developing Machine Learning models.
