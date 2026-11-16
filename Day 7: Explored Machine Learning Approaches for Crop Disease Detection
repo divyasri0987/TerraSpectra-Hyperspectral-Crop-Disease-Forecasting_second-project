@@ -1,0 +1,28 @@
+Machine Learning Approaches for Crop Disease Detection
+
+Machine Learning plays an important role in analyzing hyperspectral crop data and identifying patterns associated with plant diseases. It can learn from spectral measurements and help distinguish between different crop health conditions.
+
+Crop Disease Classification
+
+Crop disease classification involves categorizing crop samples into different health conditions based on their spectral characteristics. Machine Learning models can use relevant spectral features to identify patterns associated with healthy and diseased crops.
+
+Supervised Learning
+
+Supervised Learning uses labeled datasets to train models for predicting crop health conditions. It can be applied to classify hyperspectral observations using known crop disease categories.
+
+Model Training and Evaluation
+
+Model training involves providing processed spectral features to a Machine Learning algorithm so that it can learn relevant patterns. Model evaluation helps measure its performance using appropriate evaluation metrics.
+
+Potential Machine Learning Algorithms
+
+- Random Forest
+- Support Vector Machine (SVM)
+- Decision Tree
+- K-Nearest Neighbors (KNN)
+
+These algorithms can be explored for hyperspectral crop disease classification based on dataset characteristics and project requirements.
+
+Day 7 Summary
+
+Explored Machine Learning approaches for hyperspectral crop disease detection, including supervised learning, crop disease classification, model training, and evaluation. Also identified potential algorithms that can be investigated for developing crop disease prediction models.
